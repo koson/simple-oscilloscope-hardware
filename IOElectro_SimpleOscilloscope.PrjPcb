@@ -177,10 +177,6 @@ DocumentUniqueId=
 DocumentPath=Outputs\BOM\Bill of Materials-IOElectro_SimpleOscilloscope.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Outputs\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=NF
 Value=NF
